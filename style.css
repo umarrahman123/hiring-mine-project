@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 body{
     background-color: #fff9f960;
@@ -299,4 +300,28 @@ border: 1px solid #fff;
     margin-left: 500px;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
+}
+
+.child-1{
+    justify-content: space-between;
+    border: 3px solid blue;
+    width: 25%;
+    height: 240px;
+    padding: 30px;
+    border-radius: 20px;
+    
+}
+
+.child-1 h2{
+    text-align: center;
+    font-size:25px;
+    margin-top: 10px;
+    color: #6813d8dc;
+    
+}
+.child-1 p{
+    text-align: center;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.74);
+
 }
