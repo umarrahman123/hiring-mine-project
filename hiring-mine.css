@@ -135,7 +135,8 @@ input.search{
   bottom: -31px;
 }
 .footer{
-  background-image: linear-gradient(#533cde #9046fc);
+  /* background-color: #5f5fe9; */
+  background-color: #533cde;
   margin-top: 100px;
 }
 .ftrow{
@@ -151,6 +152,7 @@ input.search{
 }
 .icons img{
   margin-right: 30px;
+  cursor: pointer;
 }
 hr{
   color: white;
