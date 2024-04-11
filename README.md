@@ -1,2 +1,3 @@
 #Hiringmine-project
-https://umar-hiring-mine-project.netlify.app/
+https://umar-responsive-hiring-mine.netlify.app/
+
